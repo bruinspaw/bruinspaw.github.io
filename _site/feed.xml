@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruinspaw</title>
+    <description>All great ideas are simple 
+</description>
+    <link>http://bencentra.github.io/</link>
+    <atom:link href="http://bencentra.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Dec 2018 18:40:00 +0800</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 18:40:00 +0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hello, world</title>
+        <description>&lt;p&gt;This is my post. It snows today.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 18:29:20 +0800</pubDate>
+        <link>http://bencentra.github.io/other/2018/12/06/helloworld.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/other/2018/12/06/helloworld.html</guid>
+        
+        
+        <category>Other</category>
+        
+      </item>
+    
+  </channel>
+</rss>
