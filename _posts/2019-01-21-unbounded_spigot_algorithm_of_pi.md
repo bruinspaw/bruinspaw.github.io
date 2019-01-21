@@ -3,7 +3,7 @@ layout: post
 title:  "Unbounded Spigot Algorithms for Pi"
 date:   2019-01-21 20:24:20 +0800
 author: bruinspaw
-categories: PyQt
+categories: Algorithm 
 ---
 
 近来研究了圆周率的算法，发现Jeremy Gibbons的[Unbounded Spigot Algorithms for Pi](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/spigot.pdf)是最优雅的一种算法（可能不是最快的）。陆续又找到一些关于算法细节的说明，特别是关于数列收敛的介绍（[Computing the Digits in Pi](https://www.cs.umb.edu/~offner/files/pi.pdf)）。算法用到了无限精度整数的运算，现把Python实现列于下面：
