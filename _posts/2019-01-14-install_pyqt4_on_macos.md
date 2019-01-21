@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solution to PyQt4 compiling error on macOS"
+title:  "Building PyQt4 on macOS"
 date:   2019-01-14 21:05:20 +0800
 author: bruinspaw
 categories: PyQt
@@ -104,7 +104,7 @@ make[1]: *** [all] Error 2
 make: *** [all] Error 2
 ```
 
-## Build sip as a private module: --sip-module PyQt4.sip 
+## Build sip as a private module: --sip-module PyQt4.sip
 ```
 ModuleNotFoundError: No module named 'PyQt4.sip'
 ```
